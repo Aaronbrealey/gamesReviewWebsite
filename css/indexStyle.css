@@ -3,17 +3,18 @@
     background-size: cover;
     color: white;
     align-items: center;
+    height: 360px
 }
 
 .jumbotron h1 {
     text-align: center;
-    color: dodgerblue;
+    color: white;
     font-size: 100px;
 }
 
 .jumbotron p {
     text-align: center;
-    color: dodgerblue;
+    color: white;
     font-weight: bold;
     font-size: 35px;
 }
