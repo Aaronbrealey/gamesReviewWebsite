@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url(/Assets/dos_image2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 530px;
+    width: 1000px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.jumbotron h1 {
+    text-align: center;
+    color: white;
+}
