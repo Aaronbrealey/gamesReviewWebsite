@@ -5,6 +5,7 @@
     align-items: center;
     height: 360px;
     width: auto;
+    background-repeat: no-repeat;
 }
 
 .jumbotron h1 {
@@ -18,4 +19,8 @@
     color: white;
     font-weight: bold;
     font-size: 35px;
+}
+
+.iframe {
+    display: block;
 }
