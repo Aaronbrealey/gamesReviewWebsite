@@ -1,9 +1,10 @@
 .jumbotron {
-    background-image: url(../Assets/dos_imageBanner.jpg);
+    background-image: url(/Assets/tombRaiderBanner.jpg);
     background-size: cover;
     color: white;
     align-items: center;
-    height: 360px
+    height: 360px;
+    width: auto;
 }
 
 .jumbotron h1 {
@@ -17,20 +18,4 @@
     color: white;
     font-weight: bold;
     font-size: 35px;
-}
-
-
-
-.h2 {
-    color: black;
-}
-.iframe {
-    display: block;
-
-}
-
-.resize {
-    
-    height: 910px;
-    width: 512px;
 }
