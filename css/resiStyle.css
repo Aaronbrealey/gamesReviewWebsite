@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url(../Assets/BF2_Jumbotron.jpg);
+    background-image: url(../Assets/dos_imageBanner.jpg);
     background-size: cover;
     color: white;
     align-items: center;
@@ -19,6 +19,12 @@
     font-size: 35px;
 }
 
-.resi {
-    align-content: center;
+
+
+.h2 {
+    color: black;
+}
+.iframe {
+    display: block;
+
 }
