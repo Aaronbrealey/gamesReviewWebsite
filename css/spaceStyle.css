@@ -1,10 +1,9 @@
 .jumbotron {
-    background-image: url(../Assets/tombRaiderBanner.jpg);
+    background-image: url(../Assets/spaceHulkBanner.jpg);
     background-size: cover;
     color: white;
     align-items: center;
-    height: 360px;
-    width: auto;
+    height: 360px
 }
 
 .jumbotron h1 {
@@ -20,6 +19,17 @@
     font-size: 35px;
 }
 
+
+
+.h2 {
+    color: black;
+}
+
 .iframe {
     display: block;
+}
+
+.img1 {
+    height: 910px;
+    width: 512px;
 }
